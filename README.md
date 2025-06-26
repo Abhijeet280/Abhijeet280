@@ -44,8 +44,6 @@ I'm currently working on several beginner to intermediate projects in data scien
 - 📊 Dashboard Visualizations using Power BI  
 - 🧾 Predictive Models using real-world datasets  
 
-👉 Check out my pinned repositories below!
-
 ---
 
 ## 📫 Let's Connect
