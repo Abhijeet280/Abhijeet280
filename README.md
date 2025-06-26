@@ -50,7 +50,7 @@ I'm currently working on several beginner to intermediate projects in data scien
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/abhikharche/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhikharche/)  
 - 📧 Email: abhijeetkharche1000@gmail.com  
 - 🌐 Portfolio (coming soon!)
 
